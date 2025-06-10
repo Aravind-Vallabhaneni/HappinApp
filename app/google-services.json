@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "997282495109",
+    "project_id": "happin-3b935",
+    "storage_bucket": "happin-3b935.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997282495109:android:bab7d6039fa3e9e32b47ec",
+        "android_client_info": {
+          "package_name": "com.example.happinapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYKvOUF4d6zmuWk5fFUuGHtOc6O0YAmks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
